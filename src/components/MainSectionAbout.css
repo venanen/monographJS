@@ -1,0 +1,28 @@
+.mainAbout{
+    color: whitesmoke;
+
+}
+
+.mainAbout_title{
+    font-size: 3em;
+
+}
+.mainAbout_text, .mainAbout_attention{
+    font-size: 2em;
+}
+
+.mainAbout_container{
+    text-align: justify;
+    /* font-family: 'Raleway', sans-serif; */
+    font-weight: 200;
+}
+@media only screen and (max-width: 768px) {
+    .mainAbout_title{
+        font-size: 2em;
+
+    }
+    .mainAbout_text, .mainAbout_attention{
+        font-size: 1em;
+    }
+
+}

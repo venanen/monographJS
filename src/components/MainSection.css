@@ -1,0 +1,10 @@
+.mainSection{
+    position: relative;
+    z-index: 10;
+    padding: 1em;
+    margin-top: 8em;
+    margin-left: 16%;
+    margin-right: 16%;
+    font-family: 'Montserrat', sans-serif;
+}
+

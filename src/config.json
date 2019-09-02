@@ -1,0 +1,36 @@
+{
+  "navbar": {
+    "items": {
+      "Home": {
+        "icon": "blind",
+        "location": "/"
+      },
+      "Dashboard": {
+        "icon": "",
+        "location": "/dashboard"
+      },
+      "Another Link": {
+        "icon": "",
+        "location": "/anotherUrl"
+      }
+
+    }
+  },
+
+
+
+
+  "items": [
+
+    {"title": "TEST", "time": "21:09", "content": "TEST TEST TEST TEST", "tags": "test, test, test", "img": "https://react.semantic-ui.com/images/wireframe/image.png"},
+    {"title": "TEST", "time": "21:09", "content": "TEST TEST TEST TEST", "tags": "test, test, test", "img": "https://react.semantic-ui.com/images/wireframe/image.png"},
+    {"title": "TEST", "time": "21:09", "content": "TEST TEST TEST TEST", "tags": "test, test, test", "img": "https://react.semantic-ui.com/images/wireframe/image.png"}
+
+
+  ]
+
+
+
+
+
+}
